@@ -1,0 +1,77 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# Numerous always-ignore extensions
+###################
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+# OS or Editor folders
+###################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+.cache
+.project
+.settings
+.idea
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+# Dreamweaver added files
+_notes
+dwsync.xml
+# Komodo
+*.komodoproject
+.komodotools
+
+# Folders to ignore
+###################
+.hg
+.svn
+.CVS
+intermediate
+.idea
+cache
+
+# Build
+###################
+node_modules
+bower_components
+nbproject
+sftpCache.json
+.ftppass
+public/js
+public/css
+admin/js
+admin/css
+
+# Skelet
+###################
+includes/skelet
+includes/skelet/README.md
+includes/skelet/composer.json
+
+# Composer
+includes/composer
+includes/autoload.php
+includes/skelet
+composer.lock

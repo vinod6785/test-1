@@ -1,0 +1,21 @@
+{
+    "name": "pressapps/pressapps-plugin-name",
+    "authors": [
+        {
+            "name": "PressApps Team",
+            "email": "support@pressapps.co"
+        }
+    ],
+    "config" : {
+        "vendor-dir" : "includes"
+    },
+	 "repositories": [
+		 {
+			 "type": "git",
+			 "url": "https://github.com/pressapps/skelet.git"
+		 }
+	 ],
+    "require": {
+        "skelet" : "dev-master"
+    }
+}
