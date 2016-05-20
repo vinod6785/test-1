@@ -3,7 +3,7 @@
  * Plugin Name:       PressApps Document
  * Plugin URI:        http://pressapps.co/product/online-documentation/
  * Description:       Create online product or service documentation in minutes
- * Version:           2.0.1
+ * Version:           1.0.0
  * Author:            PressApps
  * Author URI:        http://pressapps.co
  * Text Domain:       pressapps-document
